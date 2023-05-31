@@ -12,7 +12,7 @@ transpose_reel = [[reel[j][i] for j in range(3)] for i in range(3)]
                         # 5
 # print("original data", reel)
 
-# print(reel)
+print(reel)
 print(transpose_reel)
 
 for i in range(3):
